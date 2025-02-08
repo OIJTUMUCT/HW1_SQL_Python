@@ -2,6 +2,9 @@
 ## SQL схема
 ![customer and transaction (white)](https://github.com/user-attachments/assets/494be466-2170-46e7-b804-f7594ca1a4f6)
 ## Результат
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20231fc9-426b-4bbc-88f4-020011f01a5c" alt="image">
+</p>
 <center>![image](https://github.com/user-attachments/assets/20231fc9-426b-4bbc-88f4-020011f01a5c)</center>
 <center>![image](https://github.com/user-attachments/assets/04a7e40a-32af-4f0e-a2dc-48aa2530c35f)</center>
 <center>![image](https://github.com/user-attachments/assets/f4c6453d-efe8-4dc8-b857-e78e46526456)</center>
