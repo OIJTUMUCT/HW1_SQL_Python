@@ -1,7 +1,7 @@
 # HW1 PostgreSQL+Python (описание ниже)
 ## SQL схема
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/60eeb303-f41b-4a76-8699-39235b966f0a" alt="image">
+  <img src="https://github.com/user-attachments/assets/5f32b2a7-1a58-487f-a3fa-29b2aff15510" alt="image">
 </p>
 
 ## Описание
@@ -13,22 +13,22 @@
 - Отдельно вынесено финансовое положение (один к одному), предполагается, что у одного покупателя может быть одно финансовое положение (индикатор смерт). Возможное улучшение - "разнести" для каждого покупателя финансовое положение во времени (в направлении к 6НФ). Адреса выделены отдельно со связью (один ко многим). Это даёт возможность добавления нового функционала - пользователь теперь может добавлять несколько адресов, которые могут использовать сторонние сервисы - например, доставка.
   - Особенности выполнения: в процессе анализа и разделения потенциальных таблиц возникла потребность в создании или обновлении ключевых атрибутов, чтобы они обладали уникальностью и не теряли связность после разделения. Для этой цели написал простую функцию хеширования (алгоритм sha256), позволяющая выделить все уникальные записи (потенциальной таблицы) и создать для них ключевой атрибут в виде индекса.
 
-## Результат
+## Результаты
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/075f402d-f973-4778-8bb3-41fef2f30ba5" alt="image">
+  <img src="https://github.com/user-attachments/assets/52fcabe2-39d0-40c6-8c52-7822509dae67" alt="image">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e4ea7c4-e27d-4129-ae70-7172bb8ce7ae" alt="image">
+  <img src="https://github.com/user-attachments/assets/a8e02eb1-cd16-4249-9d53-61ee050b49de" alt="image">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e886ef2-4596-4be4-87e0-a574b17d4bf9" alt="image">
+  <img src="https://github.com/user-attachments/assets/4f5efa97-5138-423c-a4f1-99ad7b82d2fc" alt="image">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a9ffbc7f-afcd-40c4-ba2b-e4fcce4d58af" alt="image">
+  <img src="https://github.com/user-attachments/assets/874cdb86-13da-4587-ac9b-0273d7300124" alt="image">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68176448-3a46-42ca-8e32-a4caa3e8f17b" alt="image">
+  <img src="https://github.com/user-attachments/assets/42370dc4-405f-46e4-8fd0-ef88a5925890)" alt="image">
 </p>
 
 
