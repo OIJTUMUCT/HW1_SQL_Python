@@ -1,4 +1,4 @@
-# HW1 PostgreSQL+Python (описание ниже)
+# HW1 PostgreSQL+Python
 ## SQL схема
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5f32b2a7-1a58-487f-a3fa-29b2aff15510" alt="image">
