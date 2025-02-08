@@ -1,7 +1,7 @@
 # HW1 PostgreSQL+Python (описание ниже)
 ## SQL схема
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e1d7a42-c556-4e2b-af23-f0b3d20dbf8c" alt="image">
+  <img src="https://github.com/user-attachments/assets/60eeb303-f41b-4a76-8699-39235b966f0a" alt="image">
 </p>
 
 ## Описание
