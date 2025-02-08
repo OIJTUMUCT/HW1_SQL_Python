@@ -1,6 +1,8 @@
 # HW1 PostgreSQL+Python (описание ниже)
 ## SQL схема
-![customer and transaction (white)](https://github.com/user-attachments/assets/494be466-2170-46e7-b804-f7594ca1a4f6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e1d7a42-c556-4e2b-af23-f0b3d20dbf8c" alt="image">
+</p>
 
 ## Описание
 - Работа выполнялась с использованием языка Python и сопутствующих библиотек для работы с PostgreSQL, csv-файлами, данными, SQL. Для наглядности результаты представлены также в программной оболочке DBeaver.
