@@ -5,11 +5,18 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/20231fc9-426b-4bbc-88f4-020011f01a5c" alt="image">
 </p>
-<center>![image](https://github.com/user-attachments/assets/20231fc9-426b-4bbc-88f4-020011f01a5c)</center>
-<center>![image](https://github.com/user-attachments/assets/04a7e40a-32af-4f0e-a2dc-48aa2530c35f)</center>
-<center>![image](https://github.com/user-attachments/assets/f4c6453d-efe8-4dc8-b857-e78e46526456)</center>
-<center>![image](https://github.com/user-attachments/assets/17399e6e-c125-4327-a3f6-80a921f98bcf)</center>
-<center>![image](https://github.com/user-attachments/assets/ea55547f-bd11-42b3-b010-8de425829390)</center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04a7e40a-32af-4f0e-a2dc-48aa2530c35f" alt="image">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04a7e40a-32af-4f0e-a2dc-48aa2530c35f" alt="image">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17399e6e-c125-4327-a3f6-80a921f98bcf" alt="image">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea55547f-bd11-42b3-b010-8de425829390" alt="image">
+</p>
 
 - Работа выполнялась с использованием языка Python и сопутствующих библиотек для работы с PostgreSQL, csv-файлами, данными, SQL. Для наглядности результаты представлены также в программной оболочке DBeaver.
 - Изначально таблицы БД находились в 1НФ
